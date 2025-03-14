@@ -10,7 +10,7 @@ This project performs sentiment analysis on a dataset of customer reviews using 
 
 Project Overview
 Objective        : Analyze customer reviews to classify sentiments.
-Dataset          : [Include dataset name and source].
+Dataset          : Twiiter DAtset From Kaggle.
 Techniques Used  : TF-IDF Vectorization, Logistic Regression.
 Tools            : Python, Scikit-Learn, Pandas, Numpy, Matplotlib, Seaborn.
 Project Structure: dataset/ – Contains the dataset used for training and testing.
